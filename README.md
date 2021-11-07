@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. I am currently enrolled in the UW Coding Bootcamp. I'm doing a LOT of learning right now. Things around here will be constantly changing as I grow and develop. 
+
+Skills so far...
+- HTML
+- CSS
+- Javascript
+- Jquery
+- Bootstrap
+- Materialize CSS
+
 <!--
 **m-sherrill/m-sherrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
