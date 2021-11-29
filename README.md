@@ -10,6 +10,10 @@ Skills so far...
 - Bootstrap
 - Materialize CSS
 - Node.js
+- Express.js
+- mySQL
+- MongoDB
+- Mongoose
 
 <!--
 **m-sherrill/m-sherrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
