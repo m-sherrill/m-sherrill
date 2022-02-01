@@ -1,19 +1,11 @@
+# Morgan Sherrill 
+## Full Stack Web Developer
+
 ### Hi there 👋
 
-Welcome to my GitHub profile. I am currently enrolled in the UW Coding Bootcamp. I'm doing a LOT of learning right now. Things around here will be constantly changing as I grow and develop. 
+Welcome to my GitHub profile. I am currently enrolled in a full stack web development certification course with the University of Washington. I'm doing a LOT of learning right now. Things around here will be constantly changing as I grow and develop. 
 
-Skills so far...
-- HTML
-- CSS
-- Javascript
-- Jquery
-- Bootstrap
-- Materialize CSS
-- Node.js
-- Express.js
-- mySQL
-- MongoDB
-- Mongoose
+I'm excited to share and grow as a developer! Check out my portfolio to see some of my latest complete projects. 
 
 <!--
 **m-sherrill/m-sherrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
