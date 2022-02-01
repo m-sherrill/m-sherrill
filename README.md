@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Welcome to my GitHub profile. I am currently enrolled in a full stack web development certification course with the University of Washington. I'm doing a LOT of learning right now. Things around here will be constantly changing as I grow and develop. 
+Welcome to my GitHub profile. I am currently enrolled in a full stack web development certification course with the University of Washington. I'm doing a LOT of learning right now. Things around here will be constantly changing as I develop new skills! 
 
 I'm excited to share and grow as a developer! Check out my portfolio to see some of my latest complete projects. 
 
